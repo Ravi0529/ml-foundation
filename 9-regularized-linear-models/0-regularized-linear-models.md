@@ -27,3 +27,5 @@ For linear models, regularization works by **constraining the weights** (coeffic
 ### 2. Lasso Regression (L1 Regularization)
 
 ### 3. Elastic Net
+
+### 4. Early Stopping
